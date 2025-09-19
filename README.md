@@ -12,10 +12,6 @@ It focuses on data cleaning, exploratory analysis, and visualization using Pytho
 ## Key Insight:
 - Certain authors (e.g., Jeff Kinney, Rick Riordan) consistently dominated bestsellers across multiple years.
 
-## Files:
-- `amazon_bestsellers_analysis.ipynb` – Full analysis notebook
-- `top_authors.csv` – Output file with top 10 authors
-
 ## Technologies Used:
 - Python (Pandas, Numpy)
 - Matplotlib & Seaborn
